@@ -1,0 +1,5 @@
+com/wisebreeze/services/scheduling/service/SchedulingServiceApplication.class
+com/wisebreeze/services/scheduling/service/api/Saying.class
+com/wisebreeze/services/scheduling/service/Resources/SchedulingServiceResource.class
+com/wisebreeze/services/scheduling/service/SchedulingServiceConfiguration.class
+com/wisebreeze/services/scheduling/service/TemplateHealthCheck.class
